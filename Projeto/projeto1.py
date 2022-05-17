@@ -82,5 +82,5 @@ def menu(dados):
 
 
 # Programa Principal - não modificar!
-d = obter_dados()
-menu(d)
+dados = obter_dados()
+menu(dados)
