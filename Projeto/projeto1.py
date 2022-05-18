@@ -55,7 +55,7 @@ def top_10_caros(dados):
 def top_10_baratos(dados):
     '''
     O parâmetro "dados" deve ser uma lista de dicionários representando os produtos.
-    Essa função deverá retornar uma lista de dicionários representando os 10 produtos mais caros.
+    Essa função deverá retornar uma lista de dicionários representando os 10 produtos mais baratos.
     '''
     ...
 
